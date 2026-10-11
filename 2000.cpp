@@ -15,3 +15,6 @@ cout<<sol<<endl;
 
     return 0;
 }
+
+
+//string neew problem
