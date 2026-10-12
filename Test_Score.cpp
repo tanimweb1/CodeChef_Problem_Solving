@@ -6,10 +6,10 @@ cin>>t;
 while(t--){
 int n,x,y;
 cin>>n>>x>>y;
-if(y%x==0 ){
+if(y/x<=n&&y%x==0 ){
     cout<<"YES"<<endl;
 }
-else if(xy==0)
+
 else{
     cout<<"NO"<<endl;
 }
