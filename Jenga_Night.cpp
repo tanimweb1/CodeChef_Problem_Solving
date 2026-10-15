@@ -24,7 +24,7 @@ else if(n<x && x%n!=0){
 }
 
 
-
+//this the important onee
 
 
 
