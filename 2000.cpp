@@ -90,3 +90,12 @@ cout<<a.value<<" "<<a.next->value<<" "<<a.next->next->value<<endl;
 
     return 0;
 }
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "Hello World";
+    return 0;
+}
